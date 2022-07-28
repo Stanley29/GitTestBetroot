@@ -1,0 +1,16 @@
+D:\work\Betroot\09_01_lesson\ConsoleAppForGit\ConsoleAppForGit\bin\Debug\net5.0\ConsoleAppForGit.exe
+D:\work\Betroot\09_01_lesson\ConsoleAppForGit\ConsoleAppForGit\bin\Debug\net5.0\ConsoleAppForGit.deps.json
+D:\work\Betroot\09_01_lesson\ConsoleAppForGit\ConsoleAppForGit\bin\Debug\net5.0\ConsoleAppForGit.runtimeconfig.json
+D:\work\Betroot\09_01_lesson\ConsoleAppForGit\ConsoleAppForGit\bin\Debug\net5.0\ConsoleAppForGit.runtimeconfig.dev.json
+D:\work\Betroot\09_01_lesson\ConsoleAppForGit\ConsoleAppForGit\bin\Debug\net5.0\ConsoleAppForGit.dll
+D:\work\Betroot\09_01_lesson\ConsoleAppForGit\ConsoleAppForGit\bin\Debug\net5.0\ref\ConsoleAppForGit.dll
+D:\work\Betroot\09_01_lesson\ConsoleAppForGit\ConsoleAppForGit\bin\Debug\net5.0\ConsoleAppForGit.pdb
+D:\work\Betroot\09_01_lesson\ConsoleAppForGit\ConsoleAppForGit\obj\Debug\net5.0\ConsoleAppForGit.csproj.AssemblyReference.cache
+D:\work\Betroot\09_01_lesson\ConsoleAppForGit\ConsoleAppForGit\obj\Debug\net5.0\ConsoleAppForGit.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\Betroot\09_01_lesson\ConsoleAppForGit\ConsoleAppForGit\obj\Debug\net5.0\ConsoleAppForGit.AssemblyInfoInputs.cache
+D:\work\Betroot\09_01_lesson\ConsoleAppForGit\ConsoleAppForGit\obj\Debug\net5.0\ConsoleAppForGit.AssemblyInfo.cs
+D:\work\Betroot\09_01_lesson\ConsoleAppForGit\ConsoleAppForGit\obj\Debug\net5.0\ConsoleAppForGit.csproj.CoreCompileInputs.cache
+D:\work\Betroot\09_01_lesson\ConsoleAppForGit\ConsoleAppForGit\obj\Debug\net5.0\ConsoleAppForGit.dll
+D:\work\Betroot\09_01_lesson\ConsoleAppForGit\ConsoleAppForGit\obj\Debug\net5.0\ref\ConsoleAppForGit.dll
+D:\work\Betroot\09_01_lesson\ConsoleAppForGit\ConsoleAppForGit\obj\Debug\net5.0\ConsoleAppForGit.pdb
+D:\work\Betroot\09_01_lesson\ConsoleAppForGit\ConsoleAppForGit\obj\Debug\net5.0\ConsoleAppForGit.genruntimeconfig.cache
